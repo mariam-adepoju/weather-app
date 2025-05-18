@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 99.5vh;
+  height: 100%;
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   background: #222;
